@@ -1,7 +1,8 @@
 # FICS-UI
 
 FICS-UI with Python and ReactJs. This application register you in FICS as guest.
-**Features**
+
+#### Features*
 
   - Create chess game in FICS with you prefered parameters
   - Sought and select chess game from created games
